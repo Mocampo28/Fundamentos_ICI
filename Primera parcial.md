@@ -1,1 +1,4 @@
-¡[image](https://ulibros.com/publisher/ilogo/5a2d2f9c29b2605bc4176f8068680252)
+#Facultad de Ingenieria Mecanica y Electrica
+##Ingenieria en computacion inteligente
+##Estudiante: Marco Antonio Ocampo Dela Cruz
+##Maestro : walter Alexander Mata Lopez
